@@ -1,0 +1,23 @@
+KRITERIA PROYEK total 80 + 20 kreasi 
+(git, sistem rumit, vue, laravel jadi webservice, hosting)
+==============
+
+Minimal Requirement ( nilai akhir / 2) :
+User role minimal 2
+Database minimal 8 Tabel, tidak menghitung queue:table dan notification:table
+Harus ada master, transaksi, dan laporan (minimal 1 + filter)
+
+Tampilan
+[0/10] Menggunakan Layouting + Tampilan Rapi
+----
+
+[0/5] Menggunakan Validasi
+[0/5/10] Menggunakan Model + Relationship
+[0/5] Menggunakan Cookie / Session
+[0/5/10] Menggunakan AUTH, kalau manual tidak pakai AUTH cuman 5
+[0/10] Menggunakan Middleware
+[0/5/10] Menggunakan migration, Seeder & Factory
+[0/8] Menggunakan Email
+[0/7] Menggunakan Upload File
+[0/5] Menggunakan Notification
+
